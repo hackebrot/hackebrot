@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi, I'm Raphael 👨🏻‍💻
 
-<!--
-**hackebrot/hackebrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make open-source tools for developers in Python and Go. I'm currently
+learning Rust and BigQuery. I also speak at [conferences][talks] and write on
+my personal [blog][blog]. I'm also Staff Test Engineer at [Mozilla][mozilla],
+a company that makes browsers, apps, code and tools that put people before
+profit. 🔥🦊
 
-Here are some ideas to get you started:
+For fun, I like to run, climb, bicycle, enjoy the outdoors, play video games
+and read books. I share my [reading-list][reading-list] on my blog, as I find
+it keeps me motivated to read more often. 🏃🏻‍♂️🧗🏻‍♂️🚴🏻‍♂️🌳🌤🎮📚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ask me about public speaking, coding with Python and automated testing with
+[pytest][pytest]. You can follow me on [Twitter][twitter]. 💬
+
+[talks]: https://raphael.codes/talks/
+[blog]: https://raphael.codes/blog/
+[mozilla]: https://www.mozilla.org
+[reading-list]: https://raphael.codes/reading-list/
+[pytest]: https://github.com/pytest-dev/pytest
+[twitter]: https://twitter.com/hackebrot
