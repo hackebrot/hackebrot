@@ -4,7 +4,7 @@ I make open-source tools for developers in Python and Go. I'm currently
 learning Rust and BigQuery. I speak at [conferences and meetups][talks] and
 write on my [personal blog][blog]. I'm also Staff Test Engineer at
 [Mozilla][mozilla], a company that makes browsers, apps, code and tools that
-put people before profit. 🔥🦊
+puts people before profit. 🔥🦊
 
 For fun, I like to run, climb, ride my bicycle, enjoy the outdoors, play
 video games and read books. I share my [reading-list][reading-list] on my
